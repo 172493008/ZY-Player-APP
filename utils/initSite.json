@@ -3,7 +3,7 @@
     "id": 1,
     "key": "wujin",
     "name": "wujin",
-    "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/?ac=list",
+    "api": "https://www.wolongzyw.com/api.php/provide/vod/from/wolong/at/xml/",
     "download": "",
     "group": "默认",
     "isActive": true,
